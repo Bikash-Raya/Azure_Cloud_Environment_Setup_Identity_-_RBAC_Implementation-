@@ -115,7 +115,7 @@ This lab simulates real-world enterprise cloud administration practices.
 
 | File | Description |
 |------|-------------|
-| 📄 Project Report (PDF) | Full Azure implementation documentation |
+|  [project-report.pdf](https://github.com/Bikash-Raya/Azure_Cloud_Environment_Setup_Identity_-_RBAC_Implementation-/blob/main/Azure_Cloud_Environment_Setup_%26_Identity%20Management.pdf) | Full Azure implementation documentation |
 | 📄 README.md | Project overview and summary |
 
 ---
