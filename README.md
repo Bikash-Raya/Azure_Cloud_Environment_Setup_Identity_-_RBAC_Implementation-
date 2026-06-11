@@ -36,17 +36,17 @@ This lab simulates real-world enterprise cloud administration practices.
 
 ## 🎯 Project Objectives
 
-| Task | Description | Status |
-|------|-------------|--------|
-| **1** | Create Azure Resource Group (MoonTechRG) | ✅ Completed |
-| **2** | Deploy Windows Server 2016 VM (MoonTechVM) | ✅ Completed |
-| **3** | Configure Azure CLI-based deployment | ✅ Completed |
-| **4** | Create and manage Entra ID users | ✅ Completed |
-| **5** | Configure security groups (Sales & Marketing) | ✅ Completed |
-| **6** | Implement dynamic group membership rules | ✅ Completed |
-| **7** | Assign users based on attributes (Department) | ✅ Completed |
-| **8** | Configure RBAC custom roles | ✅ Completed |
-| **9** | Validate identity & access configuration | ✅ Completed |
+| Task | Objectives |
+|------|-------------|
+| **1** | Create Azure Resource Group (MoonTechRG) | 
+| **2** | Deploy Windows Server 2016 VM (MoonTechVM) | 
+| **3** | Configure Azure CLI-based deployment | 
+| **4** | Create and manage Entra ID users | 
+| **5** | Configure security groups (Sales & Marketing) |
+| **6** | Implement dynamic group membership rules | 
+| **7** | Assign users based on attributes (Department) |
+| **8** | Configure RBAC custom roles | 
+| **9** | Validate identity & access configuration | 
 
 ---
 
