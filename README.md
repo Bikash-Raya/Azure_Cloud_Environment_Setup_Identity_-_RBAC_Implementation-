@@ -16,11 +16,17 @@
 
 ---
 
-**Completed by:** Bikash Raya  
-**Platform:** Microsoft Azure  
-**Project Type:** Cloud Administration Homelab  
+**Prepared by:** Bikash Raya
 
 </div>
+
+---
+
+## 📁 Full Lab Walkthrough — Proof of Work
+
+| File | Description |
+| --- | --- |
+| [Azure_Cloud_Environment_Setup_Identity_Management.pdf](./Azure_Cloud_Environment_Setup_Identity_Management.pdf) | Hands-on lab walkthrough with screenshots |
 
 ---
 
@@ -111,18 +117,22 @@ This lab simulates real-world enterprise cloud administration practices.
 
 ---
 
-## 📁 Repository Structure
-
-| File | Description |
-|------|-------------|
-|  [project-report.pdf](https://github.com/Bikash-Raya/Azure_Cloud_Environment_Setup_Identity_-_RBAC_Implementation-/blob/main/Azure_Cloud_Environment_Setup_%26_Identity%20Management.pdf) | Full Azure implementation documentation |
-| 📄 README.md | Project overview and summary |
-
----
-
 ## 🎯 Key Takeaway
 
 > This project demonstrates practical Azure cloud administration skills, including infrastructure deployment, identity management, automation using Azure CLI, and secure access control using RBAC and dynamic group membership.
+
+---
+
+## 🔗 Related Projects
+
+> Part of the **Bikash Security Lab** series:
+> * [Azure IAM Security Lab](https://github.com/Bikash-Raya/azure-iam-security-lab)
+> * [Azure Windows 11 VM — Deployment & Administration](https://github.com/Bikash-Raya/Azure-Cloud-Windows-11-Virtual-Machine-Deployment-RDP-Administration-User-Lifecycle-Management-RBAC-)
+> * [AD Enumeration — BloodHound & SharpHound](https://github.com/Bikash-Raya/AD-Enumeration-Bloodhound-Sharphound)
+
+---
+
+> 📄 Thanks for reading! For a full hands-on walkthrough of this lab with screenshots — [download the lab report here](./Azure_Cloud_Environment_Setup_Identity_Management.pdf)
 
 ---
 
